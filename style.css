@@ -1,0 +1,17 @@
+body{
+    background-color: cornsilk;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+img{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+h1{
+    text-align: center;
+}
